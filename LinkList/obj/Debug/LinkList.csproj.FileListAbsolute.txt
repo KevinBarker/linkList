@@ -1,0 +1,7 @@
+C:\Users\st_ji\source\repos\LinkList\LinkList\obj\Debug\LinkList.csprojAssemblyReference.cache
+C:\Users\st_ji\source\repos\LinkList\LinkList\obj\Debug\LinkList.csproj.CoreCompileInputs.cache
+C:\Users\st_ji\source\repos\LinkList\LinkList\bin\Debug\LinkList.exe.config
+C:\Users\st_ji\source\repos\LinkList\LinkList\bin\Debug\LinkList.exe
+C:\Users\st_ji\source\repos\LinkList\LinkList\bin\Debug\LinkList.pdb
+C:\Users\st_ji\source\repos\LinkList\LinkList\obj\Debug\LinkList.exe
+C:\Users\st_ji\source\repos\LinkList\LinkList\obj\Debug\LinkList.pdb
